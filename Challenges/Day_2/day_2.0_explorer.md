@@ -20,7 +20,7 @@ Files and Directories in the Current Path:
 
 ## Submission Instructions
 
-1. Create a bash script named `explorer.sh` that implements the Interactive File and Directory Explorer as described in the challenge.
+1. Create a bash script named `explorer.sh` that implements the Directory Explorer as described in the challenge.
 2. Add comments in the script to explain the purpose and logic of each part.
 3. Submit your entry by pushing the script to your GitHub repository.
 
