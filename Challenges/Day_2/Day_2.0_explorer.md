@@ -4,7 +4,7 @@ Welcome to Day 2 of the Bash Scripting Challenge! In this challenge, you will cr
 
 ### Part 1: File and Directory Exploration
 
-1. Upon execution without any command-line arguments, the script will display a welcome message and list all the files and directories in the current path.
+1. Upon execution without any command-line arguments, the script will display list all the files and directories in the current path.
 2. For each file and directory, the script will print its name and size in human-readable format (e.g., KB, MB, GB). This information will be obtained using the `ls` command with appropriate options.
 ## Example Interaction
 
