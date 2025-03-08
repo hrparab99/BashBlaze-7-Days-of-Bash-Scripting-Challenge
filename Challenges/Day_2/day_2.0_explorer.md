@@ -10,7 +10,6 @@ Welcome to Day 2 of the Bash Scripting Challenge! In this challenge, you will cr
 
 ```
 $ ./explorer.sh
-Welcome to the Interactive File and Directory Explorer!
 
 Files and Directories in the Current Path:
 - file1.txt (100 KB)
