@@ -1,6 +1,6 @@
-# Day 2 Bash Scripting Challenge - Interactive File and Directory Explorer
+# Day 2 Bash Scripting Challenge -File and Directory Explorer
 
-Welcome to Day 2 of the Bash Scripting Challenge! In this challenge, you will create a bash script that serves as an directory explorer. The script will allow you to explore the files and directories in the current path.
+Welcome to Day 2 of the Bash Scripting Challenge! In this challenge, you will create a bash script that serves as an file and directory explorer. The script will allow you to explore the files and directories in the current path.
 
 ### Part 1: File and Directory Exploration
 
@@ -19,7 +19,7 @@ Files and Directories in the Current Path:
 
 ## Submission Instructions
 
-1. Create a bash script named `explorer.sh` that implements the Directory Explorer as described in the challenge.
+1. Create a bash script named `explorer.sh` that implements the File and Directory Explorer as described in the challenge.
 2. Add comments in the script to explain the purpose and logic of each part.
 3. Submit your entry by pushing the script to your GitHub repository.
 
