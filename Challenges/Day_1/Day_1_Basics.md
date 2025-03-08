@@ -14,7 +14,7 @@ Variables in bash are used to store data and can be referenced by their name. Yo
 
 ## Task 4 & 5: Using Variables
 
-Now that you have declared variables, let's use them to perform a simple task. Create a bash script that takes two variables (numbers) as input and prints their sum using those variables.
+Now that you have declared variables, let's use them to perform a simple task. Create a bash script that takes two variables (string and number) as input and prints their sum using those variables.
 
 ## Task 6: Using Built-in Variables
 
