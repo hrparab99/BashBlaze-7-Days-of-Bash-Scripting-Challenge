@@ -16,20 +16,22 @@ echo "variable2='Two Numbers'"
 variable1="Addition of"
 variable2="Two Numbers"
 
-# Task 4: Using Variables
-echo -e "\nTask 4: Add two string in one variable Using Two Variables"
+# Task 4A: Using Variables
+echo -e "\nTask 4A: Add two string in one variable Using Two Variables"
+read -p "Enter string 1 : " variable1
+read -p "Enter string 2 : " variable2
 greeting="$variable1 $variable2!"
 echo -e "$greeting"
 
-# Task 5: Using Variables
-echo -e "\nTask 5: Add two numbers Using Two Variables"
-num1=1
-num2=2
+# Task 4B: Using Variables
+echo -e "\nTask 4B: Add two numbers Using Two Variables"
+read -p "Enter Number 1 : " num1
+read -p "Enter Number 2 : " num2
 sum=$((num1 + num2))
 echo -e "Sum of $num1 and $num2 is $sum";
 
-# Task  6: Using Built-in Variables
-echo -e "\nTask 6: Built-in Variables"
+# Task  5: Using Built-in Variables
+echo -e "\nTask 5: Built-in Variables"
 echo "My current bash path - $BASH"
 echo "Bash version I am using - $BASH_VERSION"
 echo "PID of bash I am running - $$"
@@ -38,8 +40,8 @@ echo "Where am I currently? - $PWD"
 echo "My hostname - $HOSTNAME"
 echo "Who am I - $USER"
 
-# Task 7: Wildcards
-echo -e "\nTask 7: Wildcards"
+# Task 6: Wildcards
+echo -e "\nTask 6: Wildcards"
 echo "Files with .sh extension in the current directory:"
 ls *.sh
 
