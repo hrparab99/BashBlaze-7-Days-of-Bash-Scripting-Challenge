@@ -1,6 +1,6 @@
-# Day 2 Bash Scripting Challenge - Interactive File and Directory Explorer
+# Day 2 Bash Scripting Challenge - Count of charachter in line
 
-Welcome to Day 2 of the Bash Scripting Challenge! In this challenge, you will create a bash script that serves as an interactive file and directory explorer. The script will allow you to explore the files and directories in the current path and provide a character counting feature for the user's input.
+Welcome to Day 2 of the Bash Scripting Challenge! In this challenge, you will provide a character counting feature for the user's input.
 
 ### Part 2: Character Counting
 
@@ -26,6 +26,6 @@ Exiting the Interactive Explorer. Goodbye!
 
 ## Submission Instructions
 
-1. Create a bash script named `explorer.sh` that implements the Interactive File and Directory Explorer as described in the challenge.
+1. Create a bash script named `count_of_charachter_in_line.sh` that implements the count of charachter in line as described in the challenge.
 2. Add comments in the script to explain the purpose and logic of each part.
 3. Submit your entry by pushing the script to your GitHub repository.
