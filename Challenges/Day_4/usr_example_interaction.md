@@ -63,8 +63,16 @@ sudo systemctl status nginx
 
 
 
-![Ssofterminal](https://github.com/prajwalpd7/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/71492927/4939241c-66f7-4445-bab5-6e8e8faa9d3f)
+![Ssofterminal](https://github.com/hrparab99/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/9ddea853b5c5bf6306b5b5d6f88c2885bba58d1b/Challenges/Day_4/Assets/img00.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-![Ssofterminal](https://github.com/prajwalpd7/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/71492927/b54073b7-2ba6-4727-8d74-bb64a25b273e)
+![Ssofterminal](https://github.com/hrparab99/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/9ddea853b5c5bf6306b5b5d6f88c2885bba58d1b/Challenges/Day_4/Assets/img01.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Ssofterminal](https://github.com/hrparab99/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/9ddea853b5c5bf6306b5b5d6f88c2885bba58d1b/Challenges/Day_4/Assets/img02.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Ssofterminal](https://github.com/hrparab99/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/9ddea853b5c5bf6306b5b5d6f88c2885bba58d1b/Challenges/Day_4/Assets/img03.png)
