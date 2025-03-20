@@ -2,7 +2,7 @@
 
 > Assume the script is named user_management.sh. Let's go through different scenarios:
 
-![1](Challenges/Day_3/Assets/img00.png)
+![1](https://github.com/hrparab99/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/890a3d03cf2e0f05c94b8bd7582fd1a0cdcf3627/Challenges/Day_3/Assets/img00.png)
 
 
 ### Scenario 1: Create a New User
