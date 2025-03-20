@@ -6,13 +6,10 @@
 
 
 ### Scenario 1: Create a New User
-
-![2](https://github.com/prajwalpd7/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/71492927/b472a087-ae23-4d7b-bf4f-95ceca45f6e4)
-
-
 ### Scenario 2: Create a User with an Existing Username
 
-![3](https://github.com/prajwalpd7/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/71492927/fc664ca3-6c81-4370-b968-f66a07adf9af)
+![2](https://github.com/hrparab99/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/890a3d03cf2e0f05c94b8bd7582fd1a0cdcf3627/Challenges/Day_3/Assets/img01.png)
+
 
 
 ### Scenario 3: Delete a User Account
