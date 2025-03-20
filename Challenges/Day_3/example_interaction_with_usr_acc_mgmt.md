@@ -2,6 +2,8 @@
 
 > Assume the script is named user_management.sh. Let's go through different scenarios:
 
+### Scenario 0: Help and Usage Information
+
 ![1](https://github.com/hrparab99/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/890a3d03cf2e0f05c94b8bd7582fd1a0cdcf3627/Challenges/Day_3/Assets/img00.png)
 
 
@@ -11,30 +13,25 @@
 ![2](https://github.com/hrparab99/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/890a3d03cf2e0f05c94b8bd7582fd1a0cdcf3627/Challenges/Day_3/Assets/img01.png)
 
 
-
 ### Scenario 3: Delete a User Account
-
-![4](https://github.com/prajwalpd7/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/71492927/10fce4ff-894a-4385-8a17-dbf8991fba8c)
-
-
 ### Scenario 4: Delete a Non-Existing User Account
 
-![5](https://github.com/prajwalpd7/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/71492927/55d1c5ea-6ddb-4b81-9e4c-579b34961a0a)
+![4](https://github.com/hrparab99/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/890a3d03cf2e0f05c94b8bd7582fd1a0cdcf3627/Challenges/Day_3/Assets/img02.png)
 
 
 ### Scenario 5: Reset Password
 
-![6](https://github.com/prajwalpd7/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/71492927/d2177cbe-3896-40d8-b5ad-3d7b77cb4411)
+![6](https://github.com/hrparab99/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/890a3d03cf2e0f05c94b8bd7582fd1a0cdcf3627/Challenges/Day_3/Assets/img03.png)
 
 
 ### Scenario 6: List All User Accounts
 
-![7](https://github.com/prajwalpd7/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/71492927/4fc84ea5-ca2d-4438-ad7f-a47980edb3f9)
+![7](https://github.com/hrparab99/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/890a3d03cf2e0f05c94b8bd7582fd1a0cdcf3627/Challenges/Day_3/Assets/img04.png)
 
 
-### Scenario 7: Help and Usage Information
+### Scenario 7: Invalid Argument
 
-![8](https://github.com/prajwalpd7/BashBlaze-7-Days-of-Bash-Scripting-Challenge/assets/71492927/7818c35c-29b6-44d4-ae63-c12918bdc806)
+![8](https://github.com/hrparab99/BashBlaze-7-Days-of-Bash-Scripting-Challenge/blob/890a3d03cf2e0f05c94b8bd7582fd1a0cdcf3627/Challenges/Day_3/Assets/img05.png)
 
 
 Please note that the actual output might differ based on your implementation of the script. Also, ensure that you handle different edge cases and error scenarios gracefully to make the script user-friendly and robust.
