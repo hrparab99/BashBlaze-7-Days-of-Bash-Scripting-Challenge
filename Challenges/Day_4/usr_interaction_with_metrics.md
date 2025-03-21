@@ -4,7 +4,7 @@
 
 Assume we have a script called `monitoring_script.sh` that implements the tasks mentioned in the challenge.
 
-1. **Launching the Script**
+**Launching the Script**
 
    Open a terminal and navigate to the directory where `monitoring_script.sh` is located. Execute the script using the following command:
 
