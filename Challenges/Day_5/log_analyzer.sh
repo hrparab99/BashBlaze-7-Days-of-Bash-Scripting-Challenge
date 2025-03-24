@@ -25,14 +25,18 @@ error_count=$(grep -c -i "ERROR" "$log_file")
 mapfile -t critical_events < <(grep -n -i "CRITICAL" "$log_file")
 
 # Step 4: Identify the top 5 most common error messages and their occurrence count using associative arrays
-declare -A error_messages
-while IFS= read -r line; do
-    # Use awk to extract the error message (fields are space-separated)
-    error_msg=$(awk '{for (i=3; i<=NF; i++) printf $i " "; print ""}' <<< "$line")
-    ((error_messages["$error_msg"]++))
-done < <(grep -i "ERROR" "$log_file")
+declare -A error_messages  # Declare an associative array
 
-# Sort the error messages by occurrence count (descending order)
+# Process log file to extract and count error messages
+while IFS= read -r line; do
+    # Extract only error messages (removing timestamp and [ERROR] tag)
+    error_msg=$(echo "$line" | awk -F'] ' '{print $2}' | sed 's/ - [0-9]*$//')
+
+    # Increment count for the extracted error message
+    ((error_messages["$error_msg"]++))
+done < <(grep -i "\[ERROR\]" "$log_file")
+
+# Sort and display the top 5 most common errors
 sorted_error_messages=$(for key in "${!error_messages[@]}"; do
     echo "${error_messages[$key]} $key"
 done | sort -rn | head -n 5)
@@ -53,4 +57,3 @@ summary_report="log_summary_$(date +%Y-%m-%d).txt"
 } > "$summary_report"
 
 echo "Summary report generated: $summary_report"
-
